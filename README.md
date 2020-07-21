@@ -1,2 +1,7 @@
-# NLP-course
-natural language processing translate to Persian 
+ترجمه ی اسلاید های درس پردازش زبان طبیعی
+
+فهرست محتوا
+1. معرفی
+2. رگرسیون خطی
+3. جبر خطی
+4. رگرسیون خطی چند متغیره
